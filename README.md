@@ -80,6 +80,6 @@ This is the peak of the Chaos concept = Melting. WOBBY's body, which was solid, 
 
 Original character created for Chaos Meme Contest. Free to use as meme / sticker.
 
-**Created by:** WOBBY Team
+**Created by:** punyasemua993
 **Tagline:** Certified Chaos Blob
 
