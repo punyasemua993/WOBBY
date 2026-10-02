@@ -1,6 +1,9 @@
-# WOBBY - Certified Chaos Blob
+<img width="2240" height="1120" alt="wobby_logo_cutout" src="https://github.com/user-attachments/assets/f20a7999-aa41-4786-971e-99046beb33ca" /># WOBBY - Certified Chaos Blob
 
 > An original character that embodies "Chaos" but remains highly relatable, easy to meme, and instantly recognizable.
+
+<img width="2240" height="1120" alt="wobby_logo_cutout" src="https://github.com/user-attachments/assets/cb3b6d08-fa14-4068-87ba-e30a0fda2185" />
+
 
 [WOBBY Logo](wobby_logo_cutout.png)
 
@@ -33,6 +36,8 @@ WOBBY when his brain is lagging. Eyes looking in two different directions, small
 
 **Meme Use Case:** "Me when the client says 'just a small revision' but the file is 50 artboards" / Social anxiety, deadline panic, buffering moment.
 
+<img width="1600" height="1600" alt="chaos_panic_cutout" src="https://github.com/user-attachments/assets/90e36a06-916b-4aff-84b0-d404ce957231" />
+
 [WOBBY Panic](chaos_panic_cutout.png)
 
 ### Pose 2 - "The Unhinged" [WOBBY Chaos]
@@ -42,6 +47,8 @@ The phase after panic is giving up and laughing like crazy. Here WOBBY is holdin
 
 **Meme Use Case:** "Let it burn", "I'm the one who created the problem and I'm the one laughing at it", villain arc, coping with humor. This is what gives him high meme potential.
 
+<img width="1600" height="1600" alt="chaos_crazy_cutout_v2" src="https://github.com/user-attachments/assets/56b61e93-98e2-48ec-93c2-3faf6b1b3c05" />
+
 [WOBBY Chaos](chaos_crazy_cutout_v2.png)
 
 ### Pose 3 - "The Melt" [WOBBY Melting Panic]
@@ -50,6 +57,8 @@ The phase after panic is giving up and laughing like crazy. Here WOBBY is holdin
 This is the peak of the Chaos concept = Melting. WOBBY's body, which was solid, becomes soft, liquid, dripping down. He can't take it anymore. It's a perfect visual metaphor for modern burnout.
 
 **Meme Use Case:** "I'm melting", "my brain is liquefied", "social battery 0%", "I want to disappear". His liquid form is also very versatile as a Telegram / Discord sticker / GIF.
+
+<img width="1600" height="1600" alt="kacau_melting_cutout" src="https://github.com/user-attachments/assets/0fd0804e-d89e-4260-8b4e-ec80ae5ec562" />
 
 [WOBBY Melting](chaos_melting_cutout.png)
 
