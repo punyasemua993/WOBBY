@@ -1,4 +1,4 @@
-<img width="2240" height="1120" alt="wobby_logo_cutout" src="https://github.com/user-attachments/assets/f20a7999-aa41-4786-971e-99046beb33ca" /># WOBBY - Certified Chaos Blob
+# WOBBY - Certified Chaos Blob
 
 > An original character that embodies "Chaos" but remains highly relatable, easy to meme, and instantly recognizable.
 
