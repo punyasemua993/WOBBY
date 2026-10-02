@@ -51,7 +51,7 @@ This is the peak of the Chaos concept = Melting. WOBBY's body, which was solid, 
 
 **Meme Use Case:** "I'm melting", "my brain is liquefied", "social battery 0%", "I want to disappear". His liquid form is also very versatile as a Telegram / Discord sticker / GIF.
 
-[WOBBY Melting](kacau_melting_cutout.png)
+[WOBBY Melting](chaos_melting_cutout.png)
 
 ---
 
@@ -72,7 +72,7 @@ This is the peak of the Chaos concept = Melting. WOBBY's body, which was solid, 
 ├── wobby_logo_cutout.png       # Logo Text WOBBY
 ├── chaos_panic_cutout.png      # Pose 1 - The Freeze
 ├── chaos_crazy_cutout_v2.png   # Pose 2 - The Unhinged
-└── kacau_melting_cutout.png    # Pose 3 - The Melt
+└── chaos_melting_cutout.png    # Pose 3 - The Melt
 └── README.md
 ```
 
